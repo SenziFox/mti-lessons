@@ -21,7 +21,6 @@ public:
         _y = y;
     }
 
-    // Геттеры
     int getX() {
         return _x;
     }
